@@ -2,7 +2,7 @@ package org.example;
 
 public class MarsRover {
 
-    public void process(String s) {
+    public void move(String s) {
 
     }
 }
